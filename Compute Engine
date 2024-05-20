@@ -1,0 +1,4 @@
+InStance Template
+Instead of defining the machine( cpu, memory etc) and images( software)  every time, we can create a template. 
+by using that template can create VM.
+Can't edit a template once created.
