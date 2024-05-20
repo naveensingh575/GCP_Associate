@@ -1,0 +1,13 @@
+Short-lived cheaper (upto 80%) compute instances
+Can be stopped by GCP any time (preempted) within 24 hours
+Instances get 30 second warning (to save anything they want to save)
+Use Preempt VM's if:
+Your applications are fault tolerant
+You are very cost sensitive
+Your workload is NOT immediate
+Example: Non immediate batch processing jobs
+RESTRICTIONS:
+NOT always available
+NO SLA and CANNOT be migrated to regular VMs
+NO Automatic Restarts
+Free Tier credits not applicable
