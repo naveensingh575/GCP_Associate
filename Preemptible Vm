@@ -11,3 +11,4 @@ NOT always available
 NO SLA and CANNOT be migrated to regular VMs
 NO Automatic Restarts
 Free Tier credits not applicable
+Spot VM : Similair to Preemptible VM but they don't have maximum runtime, all other things are same.
