@@ -1,0 +1,5 @@
+when we know we need resources for long time then can commit for resource usuage.
+We can get upto 70% discount depending on the machine type and GPU.
+need to commit the usuage for 1 or 3 years.
+Doesn't applied on VM created by App engine flexible and dataflow.
+Apllied on VM created by compute engine and kubernative engine.
