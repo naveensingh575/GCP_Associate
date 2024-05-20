@@ -1,0 +1,13 @@
+If Apache server not working.
+check is HTTP traffic is allowed or not.
+Check is apche server is installed in Machine or not.
+do cat of /var/www/html/index.html - it should have some content.
+Start Apache dserver command - 
+sudo su - root user 
+service apache2 start 
+
+Put below in start service.
+#!/bin/bash
+apt update
+apt -y install apache2
+echo "Hello world from $(hostname) $(hostname -I)" > /var/www/html/index.html
