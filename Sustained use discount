@@ -1,0 +1,5 @@
+A automatic discount is applied if you use VM for significent time in Month.
+The discount increase with the period of for which VM used.
+If used 100% time in month then discount will be applied 30%.
+Discount is applied on VM created by kubernative engine or compute engine.
+it is not Applied on E2 and A2 machine Type but applicable for N1 and N2.
