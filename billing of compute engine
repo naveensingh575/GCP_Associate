@@ -1,0 +1,4 @@
+you billed for no. of seconds of use and minimum will be 60 sec.
+If you terminate a Vm you will not be billed but for disk storage you will be billed.
+Create budget alerts.
+you can also export the bill to varity of services, for e.g Bigquery, pub-sub etc.
