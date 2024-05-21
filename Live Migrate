@@ -1,0 +1,8 @@
+how to keep your instances running when host is maintained?
+By unabling live migration 
+a. your VM is migrated to another host in same zone.
+b. no properties of vm is changed.
+c. It is supported for local SSD vm also but not supported for premetible instances and GPU.
+Availablity policy:
+a. On Host maintaince: 1.Migrate (by default) 2. Terminate
+b. Automatic Restart : Restart a Vm instances when it stoped by non-user instiated reason.
