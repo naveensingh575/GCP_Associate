@@ -1,0 +1,4 @@
+When predefined vm are for appropriate for your workload, you create a custom machine type.
+Can chooes vcpu, memory and GPU for E2, N1 or N2 type.
+it support variety of opertaing system like centos, ubntu, window etc.
+billed as per cpu and memory comissioned.
